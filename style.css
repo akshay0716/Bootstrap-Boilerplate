@@ -1,0 +1,125 @@
+/********************
+    Global Css
+********************/
+/***********************************
+            Global Reset             
+***********************************/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+}
+
+/********************
+    Typography Css
+********************/
+@font-face {
+  font-family: Poppins-Black;
+  src: url(fonts/Poppins-Black.otf);
+}
+
+@font-face {
+  font-family: Poppins-BlackItalic;
+  src: url(fonts/Poppins-BlackItalic.otf);
+}
+
+@font-face {
+  font-family: Poppins-Bold;
+  src: url(fonts/Poppins-Bold.otf);
+}
+
+@font-face {
+  font-family: Poppins-BoldItalic;
+  src: url(fonts/Poppins-BoldItalic.otf);
+}
+
+@font-face {
+  font-family: Poppins-ExtraBold;
+  src: url(fonts/Poppins-ExtraBold.otf);
+}
+
+@font-face {
+  font-family: Poppins-ExtraBoldItalic;
+  src: url(fonts/Poppins-ExtraBoldItalic.otf);
+}
+
+@font-face {
+  font-family: Poppins-ExtraLight;
+  src: url(fonts/Poppins-ExtraLight.otf);
+}
+
+@font-face {
+  font-family: Poppins-ExtraLightItalic;
+  src: url(fonts/Poppins-ExtraLightItalic.otf);
+}
+
+@font-face {
+  font-family: Poppins-Italic;
+  src: url(fonts/Poppins-Italic.otf);
+}
+
+@font-face {
+  font-family: Poppins-Light;
+  src: url(fonts/Poppins-Light.otf);
+}
+
+@font-face {
+  font-family: Poppins-LightItalic;
+  src: url(fonts/Poppins-LightItalic.otf);
+}
+
+@font-face {
+  font-family: Poppins-Medium;
+  src: url(fonts/Poppins-Medium.otf);
+}
+
+@font-face {
+  font-family: Poppins-MediumItalic;
+  src: url(fonts/Poppins-MediumItalic.otf);
+}
+
+@font-face {
+  font-family: Poppins-Regular;
+  src: url(fonts/Poppins-Regular.otf);
+}
+
+@font-face {
+  font-family: Poppins-SemiBold;
+  src: url(fonts/Poppins-SemiBold.otf);
+}
+
+@font-face {
+  font-family: Poppins-SemiBoldItalic;
+  src: url(fonts/Poppins-SemiBoldItalic.otf);
+}
+
+@font-face {
+  font-family: Poppins-Thin;
+  src: url(fonts/Poppins-Thin.otf);
+}
+
+@font-face {
+  font-family: Poppins-ThinItalic;
+  src: url(fonts/Poppins-ThinItalic.otf);
+}
+
+/********************
+    Function Css
+********************/
+/********************
+    Navigation Css
+********************/
+/********************
+    business Css
+********************/
